@@ -31,6 +31,7 @@ async function adminDashboard(req, res) {
   const adminPW = req.body.adminPW;
 
   if (adminPW == "Casio") {
+    // This hard-coded password is only for demo purposes; never use hard-coded passwords in production.
     console.log(adminPW);
     const mainPageRenderView = await db.SQLgetPopulateAllProducts();
 
