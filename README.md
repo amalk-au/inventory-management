@@ -79,27 +79,25 @@ The project demonstrates backend development concepts, including RESTful-style C
 
 ## Screenshots
 
-Screenshots will be added as the application documentation is expanded.
+### Main View
 
-### Dashboard
+![main-view](./docs/screenshots/main-view.png)
 
-<!-- Add dashboard screenshot here -->
+![main-view](./docs/screenshots/view-product.png)
 
-### Product Management
+### Admin View
 
-<!-- Add product management screenshot here -->
+![admin-view](./docs/screenshots/admin-view.png)
 
 ### Inventory Management
 
-<!-- Add inventory screenshot here -->
+#### Update product information
 
-### Mobile View
+![update-product](./docs/screenshots/update-product.png)
 
-<!-- Add responsive mobile screenshot here -->
+#### Add new product product information
 
-## Live Demo : Render | [Live Application](https://nodejs-inventory-application.onrender.com)
-
-Note: The availability of the original deployment URLs depends on the hosting services and their current configuration.
+![add-new-product](./docs/screenshots/add-new-product.png)
 
 ## Tech Stack
 
@@ -478,13 +476,6 @@ Manual testing should cover:
 ## Deployment
 
 The application has previously been deployed using Render and Koyeb.
-
-### Deployment Platforms
-
-| Platform | Deployment URL                                                                                         |
-| -------- | ------------------------------------------------------------------------------------------------------ |
-| Render   | [https://nodejs-inventory-application.onrender.com](https://nodejs-inventory-application.onrender.com) |
-| Koyeb    | [https://panicky-charin-amalk-dad47652.koyeb.app](https://panicky-charin-amalk-dad47652.koyeb.app)     |
 
 ### Deployment Configuration
 
