@@ -387,6 +387,9 @@ inventory-management/
 ├── db/
 │   └── populatedb.js       # Database creation and sample data
 │
+├── docs/
+│   └── screenshots       # Screenshots
+│
 ├── public/
 │   ├── images/             # Product images
 │   ├── css/                # Stylesheets
