@@ -1,6 +1,6 @@
 # Inventory Management System
 
-A web-based inventory management application built with Node.js, Express and PostgreSQL, designed to manage product information, stock quantities, pricing and customer reviews.
+A modular, web-based inventory management application built with Node.js, Express and PostgreSQL. It provides a browser-accessible interface for managing product information and stock levels, with a modular backend designed to support future enhancements and evolving business requirements.
 
 ## Table of Contents
 
@@ -51,13 +51,13 @@ A web-based inventory management application built with Node.js, Express and Pos
 
 ## Overview
 
-The Inventory Management System is a web application designed to simplify the management of product information and inventory.
+The Inventory Management System is a modular web application designed to simplify product and inventory management through a browser-based interface.
 
-Built using Node.js, Express.js and PostgreSQL, the application provides a relational database structure for organising product details and their corresponding inventory records.
+Built with Node.js, Express.js and PostgreSQL, the application uses a relational database architecture to organise and manage product information and associated inventory records.
 
-The application separates product information from inventory data, making it easier to manage product categories, manufacturers, descriptions, stock quantities, prices and customer reviews.
+By separating product details from inventory data, the application provides a structured approach to managing product categories, manufacturers, descriptions and stock quantities. Its modular architecture also allows for future enhancements and expansion to accommodate evolving requirements.
 
-The project demonstrates backend development concepts, including RESTful-style CRUD operations, relational database design, SQL queries, server-side rendering and database management.
+The project demonstrates key backend development concepts, including CRUD operations, relational database design, parameterised SQL queries, server-side rendering and database management.
 
 ## Features
 
@@ -565,13 +565,13 @@ See [LICENSE](LICENSE) for the full licence text.
 
 **Author:** Amal K.
 
-- **Portfolio:**[https://amalk.au](https://amalk.au)
+- **Portfolio:** [https://amalk.au](https://amalk.au)
 
-- **GitHub:**[@amalk-au](https://github.com/amalk-au)
+- **GitHub:** [@amalk-au](https://github.com/amalk-au)
 
-- **Repository:**[inventory-management](https://github.com/amalk-au/inventory-management)
+- **Repository:** [inventory-management](https://github.com/amalk-au/inventory-management)
 
-- **Issues:**[GitHub Issues](https://github.com/amalk-au/inventory-management/issues)
+- **Issues:** [GitHub Issues](https://github.com/amalk-au/inventory-management/issues)
 
 ---
 
